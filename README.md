@@ -1,6 +1,5 @@
-# Learn_Data_Science_in_3_Months
-
-#### Course Objective
+#   یادگیری علم داده در سه ماه
+####  اهداف دوره
 
 This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it. 
 
@@ -11,11 +10,11 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - 3 Projects 
 - 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend. 
 
-#### Course Length
+#### طول دوره
 - 12 Weeks
 - 2-3 Hours of Study per Day
 
-#### Tools Used
+#### ابزارها و کتابخانه‌ها
 - Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, 
 
 ### Accelerated Learning Techniques
@@ -23,13 +22,13 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - Handwrite notes as you watch for memory retention
 - Immerse yourself in the [community](https://medium.com/@exastax/top-20-data-science-blogs-and-websites-for-data-scientists-d88b7d99740)
 
-# Month 1 - Data Analysis
+# ماه نخست - تحلیل داده‌ها
 
-## Week 1 - Learn Python
+## هفته اول - آموزش پایتون
 - EdX https://www.edx.org/course/introduction-python-data-science-2
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
 
-## Week 2 - Statistics & Probability
+## هفته دوم - آمار و احتمال
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
